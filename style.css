@@ -67,7 +67,7 @@ body {
     background: linear-gradient(0deg, transparent, transparent, #ff2770, #ff2770, #ff2770);
     z-index: 1;
     transform-origin: bottom right;
-    animation: animate 6s linear infinite;
+    animation: animate 6s linear -1.5s infinite;
 }
 
 /* Delaying the after pseudo-element animation for borderline */
